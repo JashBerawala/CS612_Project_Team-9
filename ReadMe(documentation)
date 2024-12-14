@@ -1,0 +1,10 @@
+To Run the project
+unzip Frontend for the frontend code, and booking_backend for the backend code
+download the sql file for the database that is connects data to frontend using backend(node.js)
+upload the file in database machine(i used PhP my admin)
+download node 
+install node(npm Install) in both frontend and backend folder
+then as frontend works on react, open the terminal see the path is our frontend folder, and to run the file use 'npm start'
+to run the backend, use code 'node server.js' in the terminal
+once the frontend and backend both are successfully started, the web application runs completely as shown in the "project_screenshots.zip"
+
